@@ -1,5 +1,5 @@
 - 🎃 Hi, I’m Henrique
-- 🎬 Movie lover
+- 🎬 Cinema lover
 - 💻 Computer engineering student
 - ⚓ Always looking to learn something new
 - ⭐ Future developer
