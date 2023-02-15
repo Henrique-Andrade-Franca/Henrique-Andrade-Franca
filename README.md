@@ -17,8 +17,13 @@
   
   ##
   
+  ## Volunteer Experience
+- Member of IEEE [RAS][RAS] UFPB (Robotics and Automation Society)
+  
 <div>
   
   ![Snake animation](https://github.com/Henrique-Andrade-Franca/Henrique-Andrade-Franca/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+[RAS]: https://github.com/RAS-UFPB
