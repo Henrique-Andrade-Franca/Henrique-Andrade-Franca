@@ -1,7 +1,7 @@
-- 🎃 Hi, I’m Henrique
-- 💻 Computer engineering student
-- ⚓ Always looking to learn something new
-- ⭐ Future developer
+-  Hi, I’m Henrique
+-  Computer engineering student
+-  Always looking to learn something new
+-  Future developer
 
 <div align="center">
   
@@ -19,13 +19,6 @@
   
   ##
   
-  ## Volunteer Experience
-- Member of IEEE [RAS][RAS] UFPB (Robotics and Automation Society)
-  
-<div>
-  
   ![Snake animation](https://github.com/Henrique-Andrade-Franca/Henrique-Andrade-Franca/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-[RAS]: https://github.com/RAS-UFPB
