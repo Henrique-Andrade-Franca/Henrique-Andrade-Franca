@@ -1,7 +1,5 @@
 -  Hi, I’m Henrique
 -  Computer engineering student
--  Always looking to learn something new
--  Future developer
 
 <div align="center">
   
