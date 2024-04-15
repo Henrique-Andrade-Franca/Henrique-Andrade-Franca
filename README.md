@@ -36,4 +36,9 @@
   <a href="https://discord.gg/SJPxSmaT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="right"> 
+  Visitor Counter<br>
+  <img src="https://profile-counter.glitch.me/Henrique-Andrade-Franca/count.svg"/>
+</div>
+
 [RAS]: https://github.com/RAS-UFPB
