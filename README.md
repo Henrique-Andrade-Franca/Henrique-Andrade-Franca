@@ -1,3 +1,7 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e48bf&height=120&section=header"/>
+</a>
+
 -  Hi, I'm Henrique Andrade
 -  Computer Engineering student and developer
 
