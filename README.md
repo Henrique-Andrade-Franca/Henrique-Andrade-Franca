@@ -2,10 +2,15 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e48bf&height=120&section=header"/>
 </a>
 
--  Hi, I'm Henrique Andrade
--  Computer Engineering student and developer
+<div align="center">
 
-  ##
+Hi, I'm Henrique Andrade
+
+<img height="160" src="https://github.com/Henrique-Andrade-Franca/Henrique-Andrade-Franca/assets/90655151/195b702e-a79f-484d-8d40-cb95fe79c078"/>
+
+Computer Engineering student and developer
+
+##
 
 <div align="center">
   <a href="https://github.com/Henrique-Andrade-Franca">
@@ -28,7 +33,7 @@
 <div align="left">
 
 ## Volunteer Experience
-- Member of IEEE [RAS][RAS] UFPB (Robotics and Automation Society) || (2022-2024)
+- Member of IEEE [RAS][RAS] UFPB (Robotics and Automation Society) | (2022-2024)
 
 ## Connect with me:
 <div> 
