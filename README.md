@@ -6,7 +6,7 @@
 
 Hi, I'm Henrique Andrade
 
-<img height="180" src="https://github.com/Henrique-Andrade-Franca/Henrique-Andrade-Franca/assets/90655151/195b702e-a79f-484d-8d40-cb95fe79c078"/>
+<img height="180" width="500" src="https://github.com/Henrique-Andrade-Franca/Henrique-Andrade-Franca/assets/90655151/195b702e-a79f-484d-8d40-cb95fe79c078"/>
 
 Computer Engineering student and developer
 
