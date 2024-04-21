@@ -16,11 +16,6 @@ My name is Henrique, i'm a 20-year-old student currently pursuing a degree in Co
 - **Machine Learning**: Experience with libraries like TensorFlow and scikit-learn.
 - **Mathematical Modeling**: Comfortable with mathematical concepts and their application in computational problems.
 
-## Get in Touch
-I'm always eager to connect with fellow developers, enthusiasts, and anyone passionate about technology and its applications. Feel free to reach out to me via email or connect with me on Discord.
-
-Let's collaborate and build something amazing together! 💻✨
-
 <div align="center">
   
 ## Statistics:
@@ -48,6 +43,11 @@ Let's collaborate and build something amazing together! 💻✨
 
 ## Volunteer Experience
 - Member of IEEE [RAS][RAS] UFPB (Robotics and Automation Society) | (2022-2024)
+
+## Get in Touch
+I'm always eager to connect with fellow developers, enthusiasts, and anyone passionate about technology and its applications. Feel free to reach out to me via email or connect with me on Discord.
+
+Let's collaborate and build something amazing together! 💻✨
 
 ## Connect with me:
 <div> 
