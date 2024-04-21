@@ -2,15 +2,28 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e48bf&height=120&section=header"/>
 </a>
 
+Hey there! 👋 Welcome to my GitHub profile!
+
+## About Me
+My name is Henrique, i'm a 20-year-old student currently pursuing a degree in Computer Engineering at the Federal University of Paraíba (UFPB). My passion lies in the intersection of technology, mathematics, and problem-solving. I aspire to become a proficient developer with a keen interest in the realms of Artificial Intelligence (AI) and Computational Mathematics.
+
+## Interests
+- **Artificial Intelligence (AI)**: I'm fascinated by the possibilities AI offers in solving complex problems and enhancing human capabilities.
+- **Computational Mathematics**: Exploring the application of mathematical concepts in computer science to develop efficient algorithms and models is something that truly excites me.
+
+## Developing Skills
+- **Programming Languages**: Proficient in Python, Java, and C++.
+- **Machine Learning**: Experience with libraries like TensorFlow and scikit-learn.
+- **Mathematical Modeling**: Comfortable with mathematical concepts and their application in computational problems.
+
+## Get in Touch
+I'm always eager to connect with fellow developers, enthusiasts, and anyone passionate about technology and its applications. Feel free to reach out to me via email or connect with me on Discord.
+
+Let's collaborate and build something amazing together! 💻✨
+
 <div align="center">
-
-Hi, I'm Henrique Andrade
-
-<img height="180" width="500" src="https://github.com/Henrique-Andrade-Franca/Henrique-Andrade-Franca/assets/90655151/195b702e-a79f-484d-8d40-cb95fe79c078"/>
-
-Computer Engineering student and developer
-
-##
+  
+## Statistics:
 
 <div align="center">
   <a href="https://github.com/Henrique-Andrade-Franca">
@@ -20,6 +33,7 @@ Computer Engineering student and developer
 <div align="center">
   
 ## Languages and Tools:
+  
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" />
