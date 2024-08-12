@@ -49,7 +49,7 @@ I'm always eager to connect with fellow developers, enthusiasts, and anyone pass
 
 Let's collaborate and build something amazing together! 💻✨
 
-## Connect with me::
+## Connect with me:
 <div> 
   <a href = "mailto:henriqu3andradefranca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-A52A2A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/SJPxSmaT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
