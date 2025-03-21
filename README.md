@@ -18,7 +18,7 @@ My name is Henrique, i'm a 20-year-old student currently pursuing a degree in Co
 
 <div align="center">
   
-## Statistics
+## Statistics:
 
 <div align="center">
   <a href="https://github.com/Henrique-Andrade-Franca">
