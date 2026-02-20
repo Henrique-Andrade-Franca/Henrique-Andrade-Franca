@@ -47,7 +47,7 @@ My name is Henrique, i'm a 21-year-old student currently pursuing a degree in Co
 ## Get in Touch
 I'm always eager to connect with fellow developers, enthusiasts, and anyone passionate about technology and its applications. Feel free to reach out to me via email or connect with me on Discord.
 
-Let's collaborate and build something amazing together! 💻✨
+Let's collaborate and build something amazing together!
 
 ## Connect with me:
 <div> 
