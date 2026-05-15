@@ -5,7 +5,7 @@
 Hey there! 👋 Welcome to my GitHub profile!
 
 ## About Me
-My name is Henrique, i'm a 21-year-old student currently pursuing a degree in Computer Engineering at the Federal University of Paraíba (UFPB). My passion lies in the intersection of technology, mathematics, and problem-solving. I aspire to become a proficient developer with a keen interest in the realms of Artificial Intelligence (AI) and Computational Mathematics.
+My name is Henrique, i'm a 23-year-old student currently pursuing a degree in Computer Engineering at the Federal University of Paraíba (UFPB). My passion lies in the intersection of technology, mathematics, and problem-solving. I aspire to become a proficient developer with a keen interest in the realms of Artificial Intelligence (AI) and Computational Mathematics.
 
 ## Interests
 - **Artificial Intelligence (AI)**: I'm fascinated by the possibilities AI offers in solving complex problems and enhancing human capabilities.
