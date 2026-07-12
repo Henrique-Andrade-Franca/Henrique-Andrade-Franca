@@ -22,8 +22,10 @@ My name is Henrique, i'm a 23-year-old student currently pursuing a degree in Co
 
 <div align="center">
   <a href="https://github.com/Henrique-Andrade-Franca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Andrade-Franca&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Andrade-Franca&layout=compact&langs_count=7&theme=aura"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Andrade-Franca&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Andrade-Franca&layout=compact&langs_count=7&theme=aura"/>
+  </a>
+</div>
 
 <div align="center">
   
@@ -56,8 +58,10 @@ Let's collaborate and build something amazing together!
 </div>
 
 <div align="right"> 
+  <br>
   Visitor Counter<br>
-  <img src="https://profile-counter.glitch.me/Henrique-Andrade-Franca/count.svg"/>
+  <!-- Alternativa mais estável: visitor-badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Henrique-Andrade-Franca.Henrique-Andrade-Franca&label=Visits" />
 </div>
 
 [RAS]: https://github.com/RAS-UFPB
